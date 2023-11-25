@@ -1,0 +1,29 @@
+.External{
+    background-color: rgb(255, 255, 255);
+    color: darkblue;
+    border-width: 4px;
+    border-color: rgb(161, 34, 34);
+    border-style: dotted;
+}
+
+
+
+
+.External .our-story{
+    background-color: rgb(255, 255, 255);
+    color: goldenrod;
+    text-align: left;
+    border-style: double;
+    border-color: dodgerblue;
+
+}
+
+
+
+.sub-title{
+    background-color: rgb(255, 255, 255);
+    color: rgb(9, 97, 97);
+}
+
+
+
